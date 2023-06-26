@@ -1,9 +1,11 @@
-title: <p align="center"> Badari Prasad H </p>
-logo: /assets/img/logo.jpg
+title: <p align="center"> Sumaiya Sheikh </p>
+logo: /assets/img/MyPic.jpg
 
 description:
-  <p align="center">  
-  <a href="https://github.com/badarihp">GitHub</a>
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/sheikhsumaiya.k/">LinkedIn</a> |
+  <a href="https://github.com/Sumaiya786">GitHub</a>
   
   <br>   
   I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
@@ -11,6 +13,8 @@ description:
   Worked with IBM Research at Big Data Analytics team.
   Working in AdTech domain for 3 years.
   <br>
+  </p>
+
 
 
 theme: jekyll-theme-minimal
